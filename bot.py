@@ -16,7 +16,7 @@ from threading import Thread
 # ============================================================
 BOT_TOKEN = "8715521675:AAH4AsmyqUmUAffzsNcmsZSzV_88TfNk23c"
 # Render sana bir link verecek (Örn: https://pubolduk-bot.onrender.com)
-BASE_URL = "https://SENIN_RENDER_LINKIN.onrender.com" 
+BASE_URL = "https://telegram-uzk9.onrender.com" 
 
 bot = telebot.TeleBot(BOT_TOKEN)
 app = Flask(__name__)
